@@ -1,11 +1,9 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard1.1</TargetFramework>
-    <NetStandardImplicitPackageVersion>2.0.2</NetStandardImplicitPackageVersion>
+    <TargetFramework>netstandard2.0</TargetFramework>
     <AssemblyName>FFImageLoading</AssemblyName>
-    <PackageId>FFImageLoading</PackageId>
-    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>        
+    <PackageId>FFImageLoading</PackageId>        
     <Version>1.0.0</Version>
     <Authors>Daniel Luberda</Authors>
     <Company>Daniel Luberda</Company>
